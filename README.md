@@ -126,4 +126,3 @@ src/
   tests/
   types/
 ```
-

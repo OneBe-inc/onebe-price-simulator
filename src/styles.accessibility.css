@@ -1,0 +1,14 @@
+.text-slate-400 { color: #64748b !important; }
+.step-item small { color: #68758a; }
+.segmented-control button span { color: #667188; }
+.segmented-control button.is-selected { color: #0b55d4; }
+.segmented-control button.is-selected span { color: #365f9e; }
+.panel-heading span,
+.active-option-title small,
+.selection-empty,
+.summary-section-title > small,
+.request-grid span,
+.summary-service-copy small,
+.breakdown-head,
+.summary-total > small,
+.summary-data-note { color: #667388; }

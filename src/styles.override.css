@@ -1,0 +1,14 @@
+.app-shell { display: flex; flex-direction: column; }
+.simulator-page, .saved-page, .quote-preview-page { flex: 1; }
+.summary-section { padding-top: 8px; padding-bottom: 8px; }
+.summary-service-list > div { min-height: 32px; }
+.breakdown-head { height: 22px; }
+.breakdown-row { min-height: 25px; padding-block: 3px; }
+.amount-rows > div { min-height: 21px; }
+.internal-section { padding-top: 6px; padding-bottom: 6px; }
+.internal-grid span { min-height: 29px; padding-block: 3px; }
+.summary-total { padding-top: 9px; padding-bottom: 7px; }
+.summary-total > div:first-child span { font-size: 20px; }
+.summary-schedule { margin-top: 7px; margin-bottom: 7px; padding-block: 6px; }
+.summary-actions { padding-bottom: 7px; }
+.summary-data-note { padding-bottom: 7px; }
